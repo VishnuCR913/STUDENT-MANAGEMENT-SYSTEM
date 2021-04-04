@@ -1,1 +1,1 @@
-# STUDENT-MANAGEMENT-SYSTEM
+# Responsive Gallery
